@@ -1,13 +1,6 @@
-<!DOCTYPE html>
-
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title></title>
-    </head>
-    <body>
-        <?php
+<?php
+include 'template/header.php';
+        
         echo '<h1>In progress</h1>';
-        ?>
-    </body>
-</html>
+
+include 'template/footer.php';
