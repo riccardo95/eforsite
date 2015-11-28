@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Efor formazione e comunicazione</title>
     </head>
     <body>
 
