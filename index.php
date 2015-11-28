@@ -1,6 +1,6 @@
 <?php
 include 'template/header.php';
         
-        echo '<h1>In progress</h1>';
+include 'template/home.php';
 
 include 'template/footer.php';
