@@ -5,7 +5,7 @@ function check_firstLoad(){
             localStorage.setItem("data",data.toLocaleString());
             localStorage.setItem("os",window.navigator.platform);
             localStorage.setItem("lang",window.navigator.language);
-            //window.navigator.oscpu
+            document.cookie = "utente="+encodeURIComponent("utente");s            
         } else 
             {
                 localStorage.setItem("first",false);
