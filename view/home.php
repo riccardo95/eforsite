@@ -1,7 +1,5 @@
-<?php
-
-echo '<h1>In progress</h1>';
-
-echo '<button onclick="func()">test</button>';
+<div id="container">
+    <p>Boilerplate</p>
+</div>
 
 
